@@ -1,0 +1,23 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,10.0.7*%
+%TF.CreationDate,2026-11-21T10:36:49+05:30*%
+%TF.ProjectId,DIY CLOCK,44495920-434c-44f4-934b-2e6b69636164,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 10.0.7) date 2026-11-21 10:36:49*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X109550200Y-46050200D02*
+X199974200Y-46050200D01*
+X199974200Y-114046000D01*
+X109550200Y-114046000D01*
+X109550200Y-46050200D01*
+M02*
