@@ -1,5 +1,5 @@
 | Part | Description | URL | Price | Quantity |
-| ----- | -----| ----- | ----- | ----- |
+| :--- | :--- | :--- | :---: | :---: |
 | Custom Main PCB (PCBA) | KiCad 2-layer PCB with ESP32-WROOM-32D, TP4056, AMS1117-3.3, MAX98357A & USB-C | [Custom KiCad Files](./) | ~$16.00 | 1 |
 | TFT Screen | 3.5-inch 480x320 ILI9486 14-Pin SPI Display | https://www.amazon.in/Resistive-Touchscreen-DIYmalls-Interface-Mega-2560/dp/B0BFDYCX94 | $50.86 | 1 |
 | Speaker | 3W, 4 Ohm, 40mm Round Mini Speaker | https://www.indianhobbycenter.com/products/round-bass-speaker-4ohm-3w-full-range-audio-speaker-dia-40mm-stereo-woofer-loudspeaker-for-bluetooth-speaker-and-radio | $0.74 | 1 |
