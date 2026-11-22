@@ -1,7 +1,17 @@
-|Part | Description | URL | Prise | Quantity |
-|-----|-------------|-----|
-|TfT screen | 3.5inch Touch screen ILI9486 | https://www.amazon.in/Resistive-Touchscreen-DIYmalls-Interface-Mega-2560/dp/B0BFDYCX94| $50.86 | 1 | 
-| Speaker | 3w , 4 ohm 40mm | https://www.indianhobbycenter.com/products/round-bass-speaker-4ohm-3w-full-range-audio-speaker-dia-40mm-stereo-woofer-loudspeaker-for-bluetooth-speaker-and-radio?variant=67779489726507&country=IN&currency=INR&utm_medium=product_sync&utm_source=google&utm_content=sag_organic&utm_campaign=sag_organic| $0.74| 1 piece |
-| Motion sensor | Adafruit Apds9960 Proximity, RGB, Clear and Gesture Sensor | https://www.thingbits.in/products/adafruit-apds9960-proximity-light-rgb-gesture-sensor-stemma-qt-qwiic| $9.41 | 1 piece |
-| Joystick | KY-022 Dual-Axis | https://www.amazon.in/SP-ELECTRON-Breakout-Multi-Directional-High-Precision/dp/B0H3TB2CV2/ref=sr_1_3?dib=eyJ2IjoiMSJ9.W-8ensq39K9VbM4EFX8_RVfnNa6j7gDyD7ibfcVLd7e_-nDnyNHnoqKSedYUo3hq_j-K2IumcwWx784VPh6kcwGSjQlqYNpbsGpcpglV3rpjDXaSW9IWXIntgqG2OB_EMP-VvqLb4Y0TKsJ129eFpvKW3VPxT_iXD8UAKKQw0TRCNd5sUB5BepVix7xsxj2LLE_6red0qGX0sgy5_D5Y-5HfVHhBKw2ZA--J576pw7TT8u5a37eRBpfMxiQWrOZvj2XV6sC1l5E_uxZfbQSJSFqZHsprXGRrh8FH6Dcol1A.KSx_1xbEDdxwr0g2X2oYTQ6N1OUR7iJTzFbLvk4uqys&dib_tag=se&keywords=dual+axis+xy+joystick+module&qid=1795249077&sr=8-3 | $0.92 | 1 piece | 
+| Part | Description | URL | Price | Quantity |
+| ----- | --- --| ----- | ----- | ----- |
+| Custom Main PCB (PCBA) | KiCad 2-layer PCB with ESP32-WROOM-32D, TP4056, AMS1117-3.3, MAX98357A & USB-C | [Custom KiCad Files](./) | ~$16.00 | 1 |
+| TFT Screen | 3.5-inch 480x320 ILI9486 14-Pin SPI Display | https://www.amazon.in/Resistive-Touchscreen-DIYmalls-Interface-Mega-2560/dp/B0BFDYCX94 | $50.86 | 1 |
+| Speaker | 3W, 4 Ohm, 40mm Round Mini Speaker | https://www.indianhobbycenter.com/products/round-bass-speaker-4ohm-3w-full-range-audio-speaker-dia-40mm-stereo-woofer-loudspeaker-for-bluetooth-speaker-and-radio | $0.74 | 1 |
+| Gesture Sensor | Adafruit APDS-9960 Proximity, RGB & Gesture Sensor (I2C) | https://robu.in | $9.41 | 1 |
+| Joystick | KY-023 Dual-Axis XY Analog Joystick Module with Switch | https://www.amazon.in/SP-ELECTRON-Breakout-Multi-Directional-High-Precision/dp/B0H3TB2CV2/ref=sr_1_3?dib=eyJ2IjoiMSJ9.W-8ensq39K9VbM4EFX8_RVfnNa6j7gDyD7ibfcVLd7e_-nDnyNHnoqKSedYUo3hq_j-K2IumcwWx784VPh6kcwGSjQlqYNpbsGpcpglV3rpjDXaSW9IWXIntgqG2OB_EMP-VvqLb4Y0TKsJ129eFpvKW3VPxT_iXD8UAKKQw0TRCNd5sUB5BepVix7xsxj2LLE_6red0qGX0sgy5_D5Y-5HfVHhBKw2ZA--J576pw7TT8u5a37eRBpfMxiQWrOZvj2XV6sC1l5E_uxZfbQSJSFqZHsprXGRrh8FH6Dcol1A.KSx_1xbEDdxwr0g2X2oYTQ6N1OUR7iJTzFbLvk4uqys&dib_tag=se&keywords=dual+axis+xy+joystick+module&qid=1795249077&sr=8-3 | $0.92 | 1 |
+| LiPo Battery | 3.7V 2000mAh Rechargeable Lithium Polymer  Battery | https://roboman.in/product/704060-3-7v-2000mah-lipo-battery-rechargeable-lithium-polymer-battery-with-bms/ | $2.58 | 1 |
+|Slide Switch | SS-12F15 SPDT Mount Slide Switch | https://robu.in/product/1-month-warranty-254/ | $0.029  | 1 |
+| Neodymium Magnets | 8mm x 2mm Round disc Magnets  | https://www.amazon.in/SNOOGG-Neodymium-Whiteboard-Students-Projects/dp/B0DMVLQG69?source=ps-sl-shoppingads-lpcontext&psc=1&smid=A2NXEPBKV2RBU4 | $3.77 | 14 |
+| Screws & Headers | M2 x 6mm screws (8x), M2.5 x 5mm screws (4x), 2.54mm Pin Headers & Dupont Wires | [Sourcing Link](#) | ~$2.00 | 1 set |
+| 3D Printed Enclosure | Custom Upper Housing & Lower Base  | - | - | 1  || M2 Screws | M2 x 6mm Pan-Head Screws (for Main PCB & Slide Switch) | [Sourcing Link](#) | ~$0.40 | 8 |
+| M2.5 Screws | M2.5 x 6mm Pan-Head Screws (for Sensor) | https://quartzcomponents.com/products/m2-5-6mm-bolt-mounting-screw-pack-of-4 |  $0.086 | 4 |
+| M3 Screws | M3 x 6mm Pan-Head Screws (for  Joystick Module) | https://quartzcomponents.com/products/m3-x-6mm-phillips-pan-head-bolt-pack-of-4 | $0.054 | 4 |
+| Jumper Wires | Female-to-Female 2.54mm Dupont Wires 15cm | https://quartzcomponents.com/products/female-to-female-connecting-wires-jumper-wires-set-of-40 | $0.54 | 1 pack |
+
 
